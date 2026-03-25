@@ -10,3 +10,8 @@
       
        3. ## Configuration
        4. No special configuration needed for this project.
+
+
+## Troubleshooting
+
+If you encounter any issues, please open an issue on GitHub.
