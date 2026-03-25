@@ -19,3 +19,8 @@ Examples of behavior that contributes to a positive environment:
       - ## Attribution
      
       - This Code of Conduct is adapted from the Contributor Covenant, version 2.1.
+
+
+## Contact
+
+For questions about this Code of Conduct, please open an issue.
