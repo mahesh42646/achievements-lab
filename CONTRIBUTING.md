@@ -17,3 +17,8 @@ Thank you for your interest in contributing to this project!
             8. ## License
            
             9. By contributing, you agree that your contributions will be licensed under the MIT License.
+
+
+## Getting Help
+
+Feel free to open a discussion in the Discussions tab if you need help.
